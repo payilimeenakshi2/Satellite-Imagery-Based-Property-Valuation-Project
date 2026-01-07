@@ -50,6 +50,7 @@ Instead of training deep CNNs end-to-end, pretrained CNN models are used **only 
 ### 3. Tabular Feature Engineering
 - Missing values handled
 - Outliers treated
+- Duplicate Rows checked
 - Feature scaling applied
 - Relevant predictors selected using correlation analysis
 
